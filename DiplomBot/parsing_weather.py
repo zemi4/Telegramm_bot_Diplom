@@ -1,6 +1,5 @@
 import requests
-import pyowm
-import json
+
 
 
 s_city = "Minsk,BY"
