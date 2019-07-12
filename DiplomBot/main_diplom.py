@@ -50,4 +50,5 @@ def echo_all(message):
             bot.send_message(message.chat.id, '{0} - {1} C'.format(date, round(temp)))
 
 
-bot.polling()
+if __name__ == '__main__':
+    bot.polling(none_stop=True)
