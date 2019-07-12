@@ -1,1 +1,1 @@
-web: python main_diplom.py
+web: python DiplomBot/main_diplom.py
